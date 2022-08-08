@@ -25,7 +25,7 @@
 ---
 
 
-<img align="right" src="https://media0.giphy.com/media/PkLP9SxRIrHEs/giphy.gif">
+<img align="left" src="https://media0.giphy.com/media/PkLP9SxRIrHEs/giphy.gif">
 <br>
 
 ## Tecnologias:
