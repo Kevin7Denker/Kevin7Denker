@@ -10,8 +10,6 @@
 
 <img  align="right" src="https://media1.giphy.com/media/7jCNGJRMhXVtu/giphy.gif?cid=790b761172289abd7fcd21511339a07452152946f9101e5f&rid=giphy.gif&ct=s">
 
-<br>
-
 ## Sobre Mim... 
 
 <br>
