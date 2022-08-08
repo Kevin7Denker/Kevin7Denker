@@ -1,4 +1,3 @@
-<img  align="right" src="https://media1.giphy.com/media/7jCNGJRMhXVtu/giphy.gif?cid=790b761172289abd7fcd21511339a07452152946f9101e5f&rid=giphy.gif&ct=s">
 
 # Kevin Denker 
 
@@ -8,10 +7,12 @@
 <br>
 
 
+
+<img  align="right" src="https://media1.giphy.com/media/7jCNGJRMhXVtu/giphy.gif?cid=790b761172289abd7fcd21511339a07452152946f9101e5f&rid=giphy.gif&ct=s">
+
 <br>
 
-
-## Olá !!! Me chamo Kevin Denker 
+## Sobre Mim... 
 
 <br>
 
@@ -20,9 +21,13 @@
   - Curso: Técnico em informática;
 
 
+
 <br>
 
 ---
+
+
+<img align="right" src="https://media0.giphy.com/media/PkLP9SxRIrHEs/giphy.gif">
 <br>
 
 ## Tecnologias:
@@ -40,4 +45,11 @@
 
 📌 Essa são algumas das tecnologias que eu já tive experiêcia e estou me aperfeiçoando;
 
-i<img src="">
+<br><br>
+
+---
+
+<br>
+<img src="https://media2.giphy.com/media/81lP0O5vvGuPK/giphy.gif?cid=ecf05e47lip78jxm0y13qs77z7d0dhv9hjkrwfmdnzhiedpb&rid=giphy.gif&ct=g">
+
+<h3 align="center">Boa noite</h3>
