@@ -16,7 +16,7 @@
   - Curso: Técnico em informática;
 
 <br>
-"Sou apaixonado por tecnologia, cinema, games e pela natureza, dedicado em alcançar minhas metas e ee considero uma pessoa com foco, facilidade de aprendizado, espirito de equipe, sempre buscando conhecimento em pessoas com mais experiência de vida e de mercado, com foco em construir minha carreira como desenvolvedor, estando pronto a encarar os desafios a fim de alcançar minhas metas." 
+"Sou apaixonado por tecnologia, cinema, games e pela natureza, dedicado em alcançar minhas metas e me considero uma pessoa com foco, facilidade de aprendizado, espirito de equipe, sempre buscando conhecimento em pessoas com mais experiência de vida e de mercado, com foco em construir minha carreira como desenvolvedor, estando pronto a encarar os desafios a fim de alcançar minhas metas." 
 
 <br>
 
