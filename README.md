@@ -48,6 +48,3 @@
 ---
 
 <br>
-<img src="https://media2.giphy.com/media/81lP0O5vvGuPK/giphy.gif?cid=ecf05e47lip78jxm0y13qs77z7d0dhv9hjkrwfmdnzhiedpb&rid=giphy.gif&ct=g">
-
-<h3 align="center">Boa noite</h3>
