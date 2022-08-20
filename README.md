@@ -1,7 +1,5 @@
 
-<div style="display: flex; text-aling: center;")>
 ![Kevin Denker GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin7Denker&show_icons=true&theme=dark&count_private=true)
-</div>
 <br>
 
 
