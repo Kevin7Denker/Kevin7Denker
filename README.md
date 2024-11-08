@@ -1,40 +1,24 @@
-<img  align="right" src="https://media1.giphy.com/media/7jCNGJRMhXVtu/giphy.gif?cid=790b761172289abd7fcd21511339a07452152946f9101e5f&rid=giphy.gif&ct=s">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Sobre Mim... 
+<p align="left"> 
+  
+</p>
 
-<br>
+<p align="left">
+  👾 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
 
-- Atualmente estudante do IFPR: Campus Paranaguá (3/4);
- 
-  - Curso: Técnico em informática;
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-<br>
-"Sou apaixonado por tecnologia, cinema, games e pela natureza, dedicado em alcançar minhas metas e me considero uma pessoa com foco, facilidade de aprendizado, espirito de equipe, sempre buscando conhecimento em pessoas com mais experiência de vida e de mercado, com foco em construir minha carreira como desenvolvedor." 
+<p align="left">
+  📲 Fale Comigo! ⤵
+</p>
 
-<br>
-
----
-
-
-<img align="left" src="https://media0.giphy.com/media/PkLP9SxRIrHEs/giphy.gif">
-<br>
-
-## Tecnologias:
-
-<br>
-<div style="display: inline_block">
-  <img align="center"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center"  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-<br>
-
-📌 Essa são algumas das tecnologias que eu já tive experiêcia e estou me aperfeiçoando;
-
-<br><br>
-
----
-
-<br>
+<p align="left" margin="20px">
+  <a type="email" href="oficialdenker@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a  href="https://www.linkedin.com/in/kevin-denker-573260244/" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
