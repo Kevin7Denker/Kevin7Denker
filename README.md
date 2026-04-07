@@ -1,6 +1,6 @@
 # Olá, eu sou o Kevin Denker! 👋
 
-### Software Engineer | Full Stack Developer | IA & IoT Specialist
+### Software Engineer | Full Stack Developer | IA & IoT Enthusiast
 
 Atualmente, atuo na intersecção entre o desenvolvimento de software corporativo e a criação de produtos inovadores focados em produtividade. Tenho sólida experiência em arquitetar soluções escaláveis, desde sistemas embarcados (IoT) até aplicações mobile de alta performance.
 
