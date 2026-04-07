@@ -20,8 +20,6 @@ Atualmente, divido meu tempo entre a engenharia de software no mercado corporati
   
 *  Research & Innovation: Tenho forte interesse e projetos em desenvolvimento envolvendo **Inteligência Artificial** e **Machine Learning**, buscando aplicar modelos preditivos para resolver problemas reais de usuários e empresas.
   
-## 🛠️ Stack Tecnológica
-
 ---
 
 ## 🛠️ Stack Tecnológica
