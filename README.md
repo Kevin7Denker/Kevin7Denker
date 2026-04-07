@@ -48,15 +48,6 @@ Atualmente, divido meu tempo entre a engenharia de software no mercado corporati
 
 ---
 
-## 📈 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kevin7Denker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin7Denker&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-denker-573260244/)
