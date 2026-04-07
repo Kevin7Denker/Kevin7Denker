@@ -9,8 +9,6 @@ Atualmente, atuo na intersecção entre o desenvolvimento de software corporativ
 ##  Sobre mim
 
 Atualmente, divido meu tempo entre a engenharia de software no mercado corporativo e o desenvolvimento de soluções disruptivas no setor de tecnologia.
-
-*  Tech Lead & Founder @ Lazy: Liderando o desenvolvimento de uma plataforma inteligente de gestão de tempo e produtividade. O projeto aplica conceitos avançados de UX, arquitetura de sistemas e escalabilidade para otimizar rotinas pessoais e profissionais através de uma interface intuitiva e robusta.
   
 *  Software Engineer @ Floco Marketing e Comunicação: Atuo no desenvolvimento de soluções full-stack customizadas, integrando automações de marketing, análise de dados avançada com Google Analytics e arquiteturas robustas em WordPress e Node.js.
   
